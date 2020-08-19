@@ -8,7 +8,6 @@ import SideMenu from './sideMenu';
 import Dashboard29792186Navigator from '../features/Dashboard29792186/navigator';
 import Maps9592185Navigator from '../features/Maps9592185/navigator';
 import UserProfile9192102Navigator from '../features/UserProfile9192102/navigator';
-import Maps9292101Navigator from '../features/Maps9292101/navigator';
 import CalendarView9492098Navigator from '../features/CalendarView9492098/navigator';
 import Settings9592097Navigator from '../features/Settings9592097/navigator';
 import Camera9692096Navigator from '../features/Camera9692096/navigator';
@@ -32,7 +31,6 @@ const AppNavigator = {
 Dashboard29792186: { screen: Dashboard29792186Navigator },
 Maps9592185: { screen: Maps9592185Navigator },
 UserProfile9192102: { screen: UserProfile9192102Navigator },
-Maps9292101: { screen: Maps9292101Navigator },
 CalendarView9492098: { screen: CalendarView9492098Navigator },
 Settings9592097: { screen: Settings9592097Navigator },
 Camera9692096: { screen: Camera9692096Navigator },
