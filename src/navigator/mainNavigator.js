@@ -14,7 +14,6 @@ import Camera9692096Navigator from '../features/Camera9692096/navigator';
 import ArticleList91985Navigator from '../features/ArticleList91985/navigator';
 import ArticleList91984Navigator from '../features/ArticleList91984/navigator';
 import ArticleList91983Navigator from '../features/ArticleList91983/navigator';
-import Tutorial88515Navigator from '../features/Tutorial88515/navigator';
 import NotificationList88487Navigator from '../features/NotificationList88487/navigator';
 import Settings88478Navigator from '../features/Settings88478/navigator';
 import UserProfile88476Navigator from '../features/UserProfile88476/navigator';
@@ -35,7 +34,6 @@ Camera9692096: { screen: Camera9692096Navigator },
 ArticleList91985: { screen: ArticleList91985Navigator },
 ArticleList91984: { screen: ArticleList91984Navigator },
 ArticleList91983: { screen: ArticleList91983Navigator },
-Tutorial88515: { screen: Tutorial88515Navigator },
 NotificationList88487: { screen: NotificationList88487Navigator },
 Settings88478: { screen: Settings88478Navigator },
 UserProfile88476: { screen: UserProfile88476Navigator },
