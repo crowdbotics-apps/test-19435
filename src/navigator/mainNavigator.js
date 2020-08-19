@@ -11,7 +11,6 @@ import UserProfile9192102Navigator from '../features/UserProfile9192102/navigato
 import CalendarView9492098Navigator from '../features/CalendarView9492098/navigator';
 import Settings9592097Navigator from '../features/Settings9592097/navigator';
 import Camera9692096Navigator from '../features/Camera9692096/navigator';
-import BlankScreen9092003Navigator from '../features/BlankScreen9092003/navigator';
 import ArticleList91985Navigator from '../features/ArticleList91985/navigator';
 import ArticleList91984Navigator from '../features/ArticleList91984/navigator';
 import ArticleList91983Navigator from '../features/ArticleList91983/navigator';
@@ -33,7 +32,6 @@ UserProfile9192102: { screen: UserProfile9192102Navigator },
 CalendarView9492098: { screen: CalendarView9492098Navigator },
 Settings9592097: { screen: Settings9592097Navigator },
 Camera9692096: { screen: Camera9692096Navigator },
-BlankScreen9092003: { screen: BlankScreen9092003Navigator },
 ArticleList91985: { screen: ArticleList91985Navigator },
 ArticleList91984: { screen: ArticleList91984Navigator },
 ArticleList91983: { screen: ArticleList91983Navigator },
